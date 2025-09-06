@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudentRecordApp/1.0.0": {
+        "dependencies": {
+          "StudentRecordLib": "1.0.0"
+        },
+        "runtime": {
+          "StudentRecordApp.dll": {}
+        }
+      },
+      "StudentRecordLib/1.0.0": {
+        "runtime": {
+          "StudentRecordLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentRecordApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentRecordLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

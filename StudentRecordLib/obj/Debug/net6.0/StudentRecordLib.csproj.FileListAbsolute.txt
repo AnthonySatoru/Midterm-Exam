@@ -1,0 +1,12 @@
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\bin\Debug\net6.0\StudentRecordLib.deps.json
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\bin\Debug\net6.0\StudentRecordLib.dll
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\bin\Debug\net6.0\StudentRecordLib.pdb
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\obj\Debug\net6.0\StudentRecordLib.csproj.AssemblyReference.cache
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\obj\Debug\net6.0\StudentRecordLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\obj\Debug\net6.0\StudentRecordLib.AssemblyInfoInputs.cache
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\obj\Debug\net6.0\StudentRecordLib.AssemblyInfo.cs
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\obj\Debug\net6.0\StudentRecordLib.csproj.CoreCompileInputs.cache
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\obj\Debug\net6.0\StudentRecordLib.dll
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\obj\Debug\net6.0\refint\StudentRecordLib.dll
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\obj\Debug\net6.0\StudentRecordLib.pdb
+C:\Users\Student\clyde\StudentRecordApp\StudentRecordLib\obj\Debug\net6.0\ref\StudentRecordLib.dll
